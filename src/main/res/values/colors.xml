@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="booked">#f00</color>
+    <color name="available">#0f0</color>
+    <color name="textColor">#a81717</color>
+   
+</resources>
